@@ -16,4 +16,5 @@ int main(){
     cout << "\nMax = " << B[4];
     cout << "\nMin = " << B[5];
     return 0;
+    
 }
