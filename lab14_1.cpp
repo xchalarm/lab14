@@ -42,5 +42,6 @@ void stat(const double X[],int N,double Y[]){
     for(int n=0;n<N;n++){
         if(X[n]>Y[4])Y[4]=X[n];
         if(X[n]<Y[5])Y[5]=X[n];
+        
     }
 }
